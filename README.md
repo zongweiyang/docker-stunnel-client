@@ -34,3 +34,5 @@ stunnel-proxy:
     - "8888:8888"  
 
 ```
+
+### if use docker-compose service internal port 8888 it not work, please use host ip visit 8888 port;
